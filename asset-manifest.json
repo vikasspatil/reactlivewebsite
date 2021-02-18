@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vikasspatil/reactlivewebsite/static/css/main.065316c8.chunk.css",
+    "main.js": "/vikasspatil/reactlivewebsite/static/js/main.c5e005b9.chunk.js",
+    "main.js.map": "/vikasspatil/reactlivewebsite/static/js/main.c5e005b9.chunk.js.map",
+    "runtime-main.js": "/vikasspatil/reactlivewebsite/static/js/runtime-main.6d774fe7.js",
+    "runtime-main.js.map": "/vikasspatil/reactlivewebsite/static/js/runtime-main.6d774fe7.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/vikasspatil/reactlivewebsite/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.f6c4c994.chunk.js": "/vikasspatil/reactlivewebsite/static/js/2.f6c4c994.chunk.js",
+    "static/js/2.f6c4c994.chunk.js.map": "/vikasspatil/reactlivewebsite/static/js/2.f6c4c994.chunk.js.map",
+    "static/js/3.08c74c21.chunk.js": "/vikasspatil/reactlivewebsite/static/js/3.08c74c21.chunk.js",
+    "static/js/3.08c74c21.chunk.js.map": "/vikasspatil/reactlivewebsite/static/js/3.08c74c21.chunk.js.map",
+    "index.html": "/vikasspatil/reactlivewebsite/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/vikasspatil/reactlivewebsite/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.065316c8.chunk.css.map": "/vikasspatil/reactlivewebsite/static/css/main.065316c8.chunk.css.map",
+    "static/js/2.f6c4c994.chunk.js.LICENSE.txt": "/vikasspatil/reactlivewebsite/static/js/2.f6c4c994.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d774fe7.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.f6c4c994.chunk.js",
+    "static/css/main.065316c8.chunk.css",
+    "static/js/main.c5e005b9.chunk.js"
+  ]
+}
